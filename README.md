@@ -27,7 +27,7 @@ I'm **Saharsh**, a Computer Science & Engineering student at **CBIT, Hyderabad**
 - 🤖 Currently building: AI Agents, RAG systems & Voice AI pipelines
 - 🧠 Interests: LLMs, Generative AI, Computer Vision, Backend Systems
 - 🎓 B.E. CSE (AI/ML) — CBIT Hyderabad | CGPA: 8.2
-- 💡 500+ LeetCode problems solved
+- 💡 Strong foundation in Data Structures & Algorithms
 - 🏢 Open to AI/ML & Software Engineering internship opportunities
 
 ---
